@@ -12,6 +12,7 @@ function dothis(){
     <>
       <h1>hii there,i am developer</h1>
       <button onClick={dothis}>click me</button>
+      <h2 style={{color:"red"}}>This Is addaed code </h2>
     </>
   )
 }
